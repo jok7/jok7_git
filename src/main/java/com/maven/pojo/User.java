@@ -2,9 +2,9 @@ package com.maven.pojo;
 
 public class User {
     private Integer id;
-
+   //姓名 
     private String name;
-
+    //金额
     private Integer money;
 
     private String address;
